@@ -3,9 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-.flake8
-.travis.yml
-
 # C extensions
 *.so
 
