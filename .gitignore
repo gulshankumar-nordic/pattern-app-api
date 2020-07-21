@@ -1,3 +1,10 @@
+sum.py
+test.py
+migrations
+notes.txt
+1sum.py
+1test.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
